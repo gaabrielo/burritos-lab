@@ -1,0 +1,79 @@
+{
+  "pt": {
+    "name": "Oie, me chamo Gabriel 👋",
+    "address": "Brasil",
+    "stack_title": "💻 Stack mais usada",
+    "current_work": {
+      "title": "ASTRODEMIC",
+      "subtitle": "Projeto paralelo atual",
+      "text": "RPG educacional feito para a web"
+    },
+    "timeline": {
+      "data": [
+        {
+          "date": "2021 - Atual",
+          "text": "Plataforma de gestão de propriedades rurais focada em aprimorar a eficiência no gerenciamento financeiro, técnico e produtivo. Desenvolvi ferramentas para análise em tempo real de dados agrícolas, avícolas e climáticos, integrando informações de sensores para a otimização de processos.",
+          "title": "Desenvolvedor Full-stack em E-Aware Technologies",
+          "type": "work"
+        },
+        {
+          "date": "2020",
+          "text": "Desenvolvi componentes web utilizando ReactJs para facilitar a criação e gestão de turmas por professores, com foco em elementos dedicados ao ensino de programação.",
+          "title": "Programa de Iniciação Científica.",
+          "type": "academic"
+        },
+        {
+          "date": "2020 - Atual",
+          "title": "Licenciatura em Computação na Universidade Federal do Paraná.",
+          "type": "academic",
+          "text": null
+        }
+      ],
+      "title": "💼 Linha do tempo"
+    }
+  },
+
+  "en": {
+    "name": "Hey, I'm Gabriel 👋",
+    "address": "From Brazil",
+    "stack_title": "💻 Most used stack",
+    "current_work": {
+      "title": "ASTRODEMIC",
+      "subtitle": "Current side project",
+      "text": "Educational RPG built for the web"
+    },
+    "timeline": {
+      "data": [
+        {
+          "date": "2021 - Present",
+          "text": "Platform for rural property management focused on enhancing efficiency in financial, technical, and productive management. Developed tools for real-time analysis of agricultural, poultry, and climatic data, integrating sensor information to optimize processes.",
+          "title": "Full-stack developer at E-Aware Technologies",
+          "type": "work"
+        },
+        {
+          "date": "2020",
+          "text": "I developed web components using ReactJs to facilitate the creation and management of classes by teachers, with a focus on elements dedicated to programming education.",
+          "title": "Institutional Scientific Initiation Scholarship Program",
+          "type": "academic"
+        },
+        {
+          "date": "2020 - Present",
+          "title": "Computing degree at Universidade Federal do Paraná",
+          "type": "academic",
+          "text": null
+        }
+      ],
+      "title": "💼 Experience timeline"
+    }
+  },
+
+  "anchors": {
+    "data": [
+      { "link": "https://www.linkedin.com/in/gaabrielo/", "title": "Linkedin" },
+      { "link": "https://github.com/gaabrielo", "title": "Github" },
+      { "link": "https://dribbble.com/gaabrielo", "title": "Dribbble" },
+      { "link": "mailto:gaabrielo.contato@gmail.com", "title": "Email" }
+    ],
+    "title": "Links"
+  }
+}
