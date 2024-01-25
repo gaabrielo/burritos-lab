@@ -1,11 +1,11 @@
 import { readFileSync } from 'fs';
 import pdf from 'pdf-parse';
-import Image from 'next/image';
 import React, {
   ChangeEventHandler,
   InputHTMLAttributes,
   useEffect,
 } from 'react';
+
 import { TextWriter } from '@/pages/TextWriter';
 
 export default function Home() {
