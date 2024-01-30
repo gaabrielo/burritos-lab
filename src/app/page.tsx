@@ -1,3 +1,4 @@
+import { TyperContainer } from '@/components/TyperContainer';
 import { readFileSync } from 'fs';
 import pdf from 'pdf-parse';
 import React, {
@@ -5,8 +6,6 @@ import React, {
   InputHTMLAttributes,
   useEffect,
 } from 'react';
-
-import { TextWriter } from '@/pages/TextWriter';
 
 export default function Home() {
   // useEffect(async () => {
@@ -16,5 +15,5 @@ export default function Home() {
   //   console.log('🚀 ~ Home ~ pdfText:', pdfText);
   // }, []);
 
-  return <TextWriter />;
+  return <TyperContainer />;
 }
